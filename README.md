@@ -1,6 +1,5 @@
 # flow-field
-P5js Flow Field using Perlin Noise
-
+Flow field visualization using Perlin noise in p5js.
 
 ![alt text](https://github.com/dalvagon/flow-field/blob/main/gif.gif)
 ![alt text](https://github.com/dalvagon/flow-field/blob/main/gif2.gif)
